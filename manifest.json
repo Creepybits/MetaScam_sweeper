@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "MetaScam Sweeper",
+    "version": "1.0",
+    "description": "Doing the multi-billion dollar company's job for them. Detects PDF phishing scams in Messenger.",
+    "icons": {
+        "128": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.facebook.com/*",
+                "*://*.messenger.com/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ]
+}
