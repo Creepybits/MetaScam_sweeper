@@ -13,7 +13,7 @@ Meta has been slow to stop the surge of phishing attempts that leverage fake "of
 
     
 
-![Scam Comparison](assets/before_after_comparison.png)
+<img src="assets/before_after_comparison.png" width="400">
 
 ## How to Install (Developer Mode)  
 1. **Download**: Click the green "<> Code" button on this repository and select "Download ZIP".
