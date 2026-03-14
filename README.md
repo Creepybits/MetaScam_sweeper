@@ -10,7 +10,7 @@ Meta has been slow to stop the surge of phishing attempts that leverage fake "of
 * **Zero Server-Side Logic**: All analysis happens locally in your browser. Your private chat data is never sent to a server.
 * **Native Feel**: Injects a clean, authoritative warning directly into the chat window before you fall for the bait.
 
-
+![Scam Comparison](assets/before_after_comparison.png)
 
 ## How to Install (Developer Mode)  
 1. **Download**: Click the green "<> Code" button on this repository and select "Download ZIP".
